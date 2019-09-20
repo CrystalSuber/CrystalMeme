@@ -1,2 +1,0 @@
-# CrystalMeme
-Created with CodeSandbox
